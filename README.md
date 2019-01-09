@@ -1,0 +1,1 @@
+# ASCII_Binary_Character_Table-
